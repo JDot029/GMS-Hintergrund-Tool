@@ -1,10 +1,7 @@
-===========================
-GMS HINTERGRUND TOOL V 0.9
-===========================
 
-====================================
+GMS HINTERGRUND TOOL V 0.9
+
 ACHTUNG BETA!!! NOCH NICHT FERTIG!!!
-====================================
 
 Warum?
 - Nachdem die Schule im Frühjahr 2023 das setzen von eigenen
