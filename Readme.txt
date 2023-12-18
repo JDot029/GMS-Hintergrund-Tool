@@ -1,5 +1,5 @@
 ===========================
-GMS HINTERGRUND TOOL V 1.0 
+GMS HINTERGRUND TOOL V 1.1 
 ===========================
 
 Warum?
@@ -8,13 +8,13 @@ Warum?
   damit man sich wieder ein eigenes Hintergrundbild setzen kann.
 
 Wichtig:
-- Das Tool funktioniert derzeit nur auf den alten Dell Laptops. Für mehr kompatibilität wird bald gesorgt!
+- Das Tool funktioniert mittlerweile einwandfrei auf den Dell Laptops aus den Laptopwagen.
 
 Vorraussetzungen:
-- Bild im Format .png oder .jpg
+- Bild im Format .jpg
 
 Anleitung:
-1. Kopiere dein Bild in diesen Ordner. Stelle sicher, dass es Hintergrund.png heißt.
+1. Kopiere dein Bild in diesen Ordner. Stelle sicher, dass es Hintergrund.jpg heißt.
 2. Doppelklick auf das Programm Tool.bat und wähle Option 1. Danach option 3 um das Programm zu beenden.
 3. Fertig. Jetzt wird das Hintergrundbild automatisch bei jeder anmeldung geladen.
    Das kann jedoch manchmal bis zu 5min dauern!
@@ -33,5 +33,13 @@ Kontakt / Fehler Melden:
 
 Discord: K5G#2093
 
-Readme.md Version 1.2
+Changelog:
+V1.1:
+- Alles in einer Batch Datei
+- Fehler im Batch-Code behoben
+- Veränderte Readme
+
+Readme.md Version 1.3
+
+
 
